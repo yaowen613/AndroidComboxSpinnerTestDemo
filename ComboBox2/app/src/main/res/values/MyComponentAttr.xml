@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditTextWithLabel">
+        <attr name="name" format="string"/>
+        <attr name="labelWidth" format="float" />
+        <attr name="labelText" format="string"/>
+        <attr name="emptyText" format="string"/>
+        <attr name="defaultText" format="string"/>
+        <attr name="readOnly" format="boolean"/>
+        <attr name="edittextEnabled" format="boolean"/>
+        <attr name="textIsSelectable" format="boolean"/>
+    </declare-styleable>
+</resources>
